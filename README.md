@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aye Min Aung</h1>
-<h3 align="center">A passionate developer from Myanmar</h3>
+<h3 align="center">A beginner developer from Myanmar</h3>
 
 - 💬 Ask me about **How to start web development field**
 
