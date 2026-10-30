@@ -56,12 +56,11 @@ I am deepening my understanding of production backend development, API design, t
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeminaung010&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Aye Min Aung's GitHub statistics" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeminaung010&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeminaung010&theme=github" alt="Aye Min Aung's GitHub activity summary" width="95%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeminaung010&bg_color=ffffff&color=24292f&line=0969da&point=1f6feb&area=true&hide_border=true" alt="GitHub contribution activity graph" width="95%">
+  <img src="https://ghchart.rshah.org/0969da/ayeminaung010" alt="Aye Min Aung's GitHub contribution activity" width="95%">
 </div>
 
 ## Let's Connect
