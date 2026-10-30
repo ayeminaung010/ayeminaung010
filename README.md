@@ -1,52 +1,72 @@
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<table width="100%">
-  <tbody><tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ayeminaung010">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeminaung010&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ayeminaung010">
-          <img align="center" src="https://streak-stats.demolab.com?user=ayeminaung010&amp;theme=nightowl" alt="Streak Stats">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ayeminaung010">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ayeminaung010&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
-        </a>
-      </p>
-    </td>
-  </tr>
-</tbody></table>
-<br>
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<!-- markdownlint-disable MD013 MD033 -->
+
+# Aye Min Aung
+
+## Software Developer | Web Applications & Backend Services
+
+Building practical products, learning in public, and improving one system at a time.
+
+[LinkedIn](https://www.linkedin.com/in/aye-min-aung-82886823a/) ·
+[Email](mailto:ayeminung11.ama@gmail.com) ·
+[GitHub](https://github.com/ayeminaung010)
+
+## About
+
+I am a Bangkok-based software developer who enjoys turning ideas into useful web applications and backend services. My projects range from TypeScript APIs and automation tools to React, Vue, Laravel, and Spring Boot applications.
+
+- I care about readable code, maintainable architecture, and thoughtful user experiences.
+- I am currently exploring AI-enabled developer tools, video workflows, and automation.
+- I learn by building: each project is an opportunity to practice a technology and solve a concrete problem.
+
+## What I Work With
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, PHP, Java, C++ |
+| Frontend | React, Vue, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Laravel, Spring Boot, REST APIs |
+| Data and tools | PostgreSQL, Firebase, Redux Toolkit, Git, GitHub |
+
+## Selected Work
+
+### [Docora Backend](https://github.com/ayeminaung010/docora_backend)
+
+TypeScript backend project with a focus on API and application architecture. This is the repository that best represents my current direction toward maintainable backend systems.
+
+### [Video Recapper](https://github.com/ayeminaung010/video_recapper) · [Video API](https://github.com/ayeminaung010/video-api)
+
+A pair of projects exploring video-processing workflows across TypeScript and Python. Together they reflect my interest in practical automation and AI-adjacent product ideas.
+
+### [LINE Translate Bot](https://github.com/ayeminaung010/line-translate-bot)
+
+An integration-focused TypeScript project that connects an application workflow with a messaging platform and translation capabilities.
+
+### [Dummy Products Store](https://github.com/ayeminaung010/dummy-porducts)
+
+React e-commerce project using API data and Redux / Redux Toolkit for state management.
+
+### [Live Chat](https://github.com/ayeminaung010/live-chat)
+
+Real-time chat application built with Vue and Firebase, with an emphasis on client-side interaction and hosted backend services.
+
+## Currently Learning
+
+I am deepening my understanding of production backend development, API design, testing, deployment, and the engineering practices that help software stay reliable as it grows.
+
+## GitHub Activity
+
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeminaung010&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeminaung010&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Aye Min Aung's GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeminaung010&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165">
 </div>
-<hr>
-<!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+
 <div align="center">
- <a href="https://www.linkedin.com/in/aye-min-aung-82886823a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
-</a>
-<a href="mailto:ayeminung11.ama@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="ayeminaung11.ama@gmail.com" mail="" style="margin-bottom: 5px;">
-</a>
-<a href="https://www.instagram.com/ayeminaung2.1" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="kiran_a_n" instagram="" style="margin-bottom: 5px;">
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeminaung010&bg_color=ffffff&color=24292f&line=0969da&point=1f6feb&area=true&hide_border=true" alt="GitHub contribution activity graph" width="95%">
 </div>
+
+## Let's Connect
+
+I am open to connecting with developers, collaborators, and teams building useful software.
+
+<a href="mailto:ayeminung11.ama@gmail.com"><img src="https://img.shields.io/badge/Email-ayeminung11.ama%40gmail.com-0969DA?style=flat-square&logo=gmail&logoColor=white" alt="Email Aye Min Aung"></a>
+<a href="https://www.linkedin.com/in/aye-min-aung-82886823a/"><img src="https://img.shields.io/badge/LinkedIn-Aye%20Min%20Aung-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
